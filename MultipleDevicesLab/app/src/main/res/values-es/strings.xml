@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question">¿Quieres saber qué pasará en 3 meses?</string>
+    <string name="answer">Usted será un revelador androide impresionante. Sólo sigue trabajando duro.</string>
+    <string name="button">Haz click en mi :)</string>
+</resources>
